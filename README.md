@@ -1,1 +1,1 @@
-# StyleGAN
+$\mathbf{z} \in \mathcal{Z}$
